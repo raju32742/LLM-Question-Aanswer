@@ -27,9 +27,13 @@ Project Root/
 |     training_loss.jpg
 |     validation_loss.jpg
 │
+├───LLM Models
+|    Finetune-GPT2-Q&A.ipynb
+|    Bloom.ipynb
+|    Finetune-t5.ipynb
+|    Llma2.ipynb
 ├───Report
 │       MSCI_641_project_21093036 (1).pdf
 │
-└───MedQuAD
-    ├───MedQuAD.csv
-    
+|───MedQuAD
+│   MedQuAD.csv
