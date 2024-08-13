@@ -1,0 +1,7 @@
+!pip install nltk
+!pip install datasets
+!pip install transformers[torch]
+!pip install tokenizers
+!pip install evaluate
+!pip install rouge-score
+!pip install rouge
