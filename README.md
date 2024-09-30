@@ -13,6 +13,7 @@ The process began with the meticulous preprocessing of the dataset using Natural
 
 
 <img src="Figure/System architecture_page.jpg" alt="Alt text" title="Hover text" height = "200" width="500"/>
+<p><em>Architecture of automated question-answer systems using fine-tuned LLMs.</em></p>
 
 
 ## Project Structure
