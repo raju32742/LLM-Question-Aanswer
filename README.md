@@ -1,4 +1,4 @@
-# MSCI641_project
+# MSCI641 Project (Large Language Model-LLM)
 ## Title: Enhancing Automated Medical Question-Answer Systems Using Fine-Tuned Large Language Models
 #### Member
 - **Name:** S M Taslim Uddin Raju 
