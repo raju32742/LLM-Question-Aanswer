@@ -38,8 +38,6 @@ Project Root/
 |    Bloom.ipynb
 |    Finetune-t5.ipynb
 |    Llma2.ipynb
-├───Report
-│       MSCI_641_project_21093036 (1).pdf
 │
 |───MedQuAD
     MedQuAD.csv
