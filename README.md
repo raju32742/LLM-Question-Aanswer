@@ -1,8 +1,8 @@
 # MSCI641 Project (Large Language Model-LLM)
 ## Title: Enhancing Automated Medical Question-Answer Systems Using Fine-Tuned Large Language Models
 #### Member
-- **Name:** S M Taslim Uddin Raju 
-- **Email:**  [smturaju@uwaterloo.ca](mailto:smturaju@uwaterloo.ca)
+- **Name:** S M Taslim Uddin Raju and Abdul Raqeeb Mohammad 
+- **Email:**  [smturaju@uwaterloo.ca](mailto:smturaju@uwaterloo.ca), [ar3moham@uwaterloo.ca](mailto:ar3moham@uwaterloo.ca)
 - **Personal Email:** [taslimuddinraju7864@gmail.com](mailto:taslimuddinraju7864@gmail.com)   
 
 ### About the Project
